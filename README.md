@@ -1,0 +1,2 @@
+# Segmenting-and-Clustering-Neighborhoods-in-Toronto-
+In this notebook, I will use the Foursquare API to explore neighborhoods in Toronto. I will explore to get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters, using the k-means clustering algorithm. Finally, I will visualize the neighborhoods in Toronto and their emerging clusters.
